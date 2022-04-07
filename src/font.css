@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'HN';
+  src: url('./assets/Monotype__-_Helvetica_Now_Display.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+ }
+
+
+  @font-face {
+    font-family: 'Pixel';
+    src: url('./assets/PIXELADE.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+   }
